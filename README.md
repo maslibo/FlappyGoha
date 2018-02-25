@@ -1,2 +1,1 @@
-# FlappyGoha
-Gra FlappyGoha
+#ZAKAZ KOPIOWANIA!
